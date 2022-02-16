@@ -1,6 +1,6 @@
 {
-  "name": "meetup",
-  "homepage": "https://sashka-iskova.github.io/meetup",
+  "name": "blog-page",
+  "homepage": "https://sashka-iskova.github.io/blog-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
